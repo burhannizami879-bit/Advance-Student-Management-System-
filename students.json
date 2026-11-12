@@ -1,0 +1,62 @@
+[
+    {
+        "student_id": 1,
+        "student_type": "Merit",
+        "name": "Burhan Ali",
+        "age": 22,
+        "email": "burhan@gmail.com",
+        "department": "IT",
+        "student_marks": {
+            "Computer": 98.0,
+            "Programming": 89.0,
+            "ICT": 88.0,
+            "Networking": 90.0,
+            "Database": 87.0
+        }
+    },
+    {
+        "student_id": 2,
+        "student_type": "Regular",
+        "name": "Ali",
+        "age": 23,
+        "email": "ali@gmail.com",
+        "department": "CS",
+        "student_marks": {
+            "English": 78.0,
+            "Computer": 89.0,
+            "OOP": 77.0,
+            "Networking": 86.0,
+            "ICT": 93.0
+        }
+    },
+    {
+        "student_id": 3,
+        "student_type": "Regular",
+        "name": "jawad",
+        "age": 22,
+        "email": "jawad@gmail.com",
+        "department": "IT",
+        "student_marks": {
+            "English": 89.0,
+            "Computer": 78.0,
+            "ICT": 67.0,
+            "Networking": 78.0,
+            "Database": 67.0
+        }
+    },
+    {
+        "student_id": 4,
+        "student_type": "Merit",
+        "name": "Hammad",
+        "age": 23,
+        "email": "hammad@gmail.com",
+        "department": "CS",
+        "student_marks": {
+            "English": 90.0,
+            "Computer": 98.0,
+            "Database": 99.0,
+            "Networking": 96.0,
+            "Programmig": 98.0
+        }
+    }
+]
